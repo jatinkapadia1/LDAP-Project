@@ -1,0 +1,4 @@
+1. First to download Django simply input pip install Django==4.0.4 into your code editor console. 
+2. Next you will need to similarly input pip install django-crispy-forms into the same console.
+3. Now you will be able to extract the project zip file and navigate to the myproj directory within and input the last command
+to set up a local host on your machine, Python .\manage.py runserver. It will then provide you with a link to the LDAP.
