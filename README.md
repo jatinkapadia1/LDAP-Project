@@ -1,4 +1,6 @@
 # LDAP-Project
+Before the LDAP is accessible your machine will need to become a local host which can be done through the following steps.
+
 1. First to download Django simply input the following command into your code editor console, pip install Django==4.0.4  
 2. Next you will need to similarly input this command in the same console, pip install django-crispy-forms 
 3. Now you will be able to download and extract the project zip file and navigate to the myproj directory within and input the 
